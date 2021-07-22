@@ -4,9 +4,7 @@
   "description": "card creator backend",
   "main": "server.js",
   "scripts": {
-    "server": "node server.js",
-    "client": "npm run start --prefix client",
-    "dev": "concurrently \"npm run server\" \"npm run client\""
+    "server": "node server.js"
   },
   "author": "Le The Viet",
   "license": "ISC",
